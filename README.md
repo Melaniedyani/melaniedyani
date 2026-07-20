@@ -16,9 +16,9 @@ Product Manager with a focus on music tech platforms and B2B APIs. This profile 
 
 - I'm currently a Product Manager at MassiveMusic, leading supply chain and platform infrastructure, overseeing the ingestion of around a million releases a week across roughly 150 API endpoints for close to 50 B2B clients. Before that, I was a Product Analyst at 7digital, and earlier held product and operations roles outside music, including insurance and government.
 
-The problems I gravitate towards are the ambiguous, cross-functional ones, where getting alignment across teams is as much the job as the product decision itself.
+- The problems I gravitate towards are the ambiguous, cross-functional ones, where getting alignment across teams is as much the job as the product decision itself.
 
-More projects to come as I keep building this out.
+- More projects to come as I keep building this out.
  
 ## Elsewhere
  
